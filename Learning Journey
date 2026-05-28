@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=a9u2yZvsqHA
+In this video, I learned about
+1. How to create repo
+2. What are branches in repo - which is like version controlling, keeping a good code practice in case any changes break the code
+3. How to merge branches with the main, and it will show where changes are (e.g., red for deletion, green for addition)
+4. Use VS Code -> git clone (add the HTTPS) to download someone's codes onto local computer to experiment it
